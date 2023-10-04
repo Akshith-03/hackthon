@@ -1,0 +1,81 @@
+nav{
+    width: 100%;
+    height: 100px;
+    background-color: black;
+}
+
+.brand-logo{ 
+    color: white;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 30px;
+    margin-left: 30px;
+    float: left;
+    
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+
+/* .logo{
+    padding: 5px 55%;
+    color: white;
+} */
+/* #nav-list{
+    margin-top: 10px;
+}
+#nav-list a{
+    color: white;
+    text-align:right;
+}
+#nav-list a:hover {
+    background: orange;
+
+}
+#nav-list a span {
+    font-size: 1.8em;
+} */
+/* .Home{
+     padding-top: 30px;
+    padding-left: 50%; 
+     color: white;
+    
+} 
+.search{
+    padding-top: 15px;
+    padding-left: 40%;
+    /* padding-right: 30%; */
+     /* color: white;
+} */ 
+
+/* .info{
+ padding-bottom:15px; 
+ padding-left:70%; 
+ color: white;
+}  */
+
+nav ul{
+    float: center;
+    padding-left: 70%;
+    padding-top: 25px;
+}
+ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 15px;
+}
+ul li a{
+    text-decoration: none;
+    /* font-size: 20px; */
+    /* padding: 12px; */
+    color: white;
+}
+.Footer{
+    display: flex;
+    flex-wrap: row wrap;
+    padding: 50px;
+    background-color: black;
+
+}
+
